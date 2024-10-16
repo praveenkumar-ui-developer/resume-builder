@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "id": "ee4b",
+      "education": {
+        "firstname": "bvjvg",
+        "surename": "jnj",
+        "profession": "jj",
+        "email": "praveenpkumar.2024@gmail.com",
+        "phonenumber": "07095392139",
+        "city": "Nandyal",
+        "pincode": "518593",
+        "country": "India"
+      }
+    },
+    {
+      "id": "001a",
+      "education": {
+        "firstname": "bvjvg",
+        "surename": "jnj",
+        "profession": "jj",
+        "email": "praveenpkumar.2024@gmail.com",
+        "phonenumber": "07095392139",
+        "city": "Nandyal",
+        "pincode": "518593",
+        "country": "India"
+      }
+    },
+    {
+      "id": "a1c2",
+      "education": {
+        "firstname": "",
+        "surename": "",
+        "profession": "",
+        "email": "",
+        "phonenumber": "",
+        "city": "",
+        "pincode": "",
+        "country": ""
+      }
+    },
+    {
+      "id": "7c30",
+      "education": {
+        "firstname": "Prave",
+        "surename": "Paradesi",
+        "profession": "Frontend developer",
+        "email": "praveenpkumar.2024@gmail.com",
+        "phonenumber": "07095392139",
+        "city": "Nandyal",
+        "pincode": "518593",
+        "country": "India"
+      }
+    },
+    {
+      "id": "76ec",
+      "education": {
+        "firstname": "Prave",
+        "surename": "Paradesi",
+        "profession": "Frontend developer",
+        "email": "praveenpkumar.2024@gmail.com",
+        "phonenumber": "07095392139",
+        "city": "Nandyal",
+        "pincode": "518593",
+        "country": "India"
+      }
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "content": "This is my first post content",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Another Post",
+      "content": "This is another post content",
+      "userId": 2
+    }
+  ]
+}
